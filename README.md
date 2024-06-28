@@ -10,5 +10,5 @@
 <h3>Contatos:</h3>
 <h4>Clique para entrar em contato onde preferir 😁:</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[[www.linkedin.com/in/rafacaetano7](https://www.linkedin.com/in/felipe-caetano-araujo/)](https://www.linkedin.com/in/felipe-caetano-araujo/))]([https://www.linkedin.com/in/rafacaetano7](https://www.linkedin.com/in/felipe-caetano-araujo/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-caetano-araujo)](https://www.linkedin.com/in/felipe-caetano-araujo)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.caetanoaraujo@gmail.com)](mailto:felipe.caetanoaraujo@gmail.com)
